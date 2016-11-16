@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="arm64-v8a,armeabi-v7a,armeabi"
+    api-level="23"
+    density="xxhdpi"
+    format="8"
+    plugin-version="2.2.1"
+    timestamp="9238212143286"
+    token="3046978602127679036"
+    verifier="COMPATIBLE" >
+
+    <task
+        name="javac"
+        duration="440" />
+    <task
+        name="instant-run-dex"
+        duration="439" />
+    <task
+        name="instant-run-transform"
+        duration="25" />
+    <task
+        name="verifier"
+        duration="9" />
+
+    <artifact
+        location="D:\Code\Android\HomeButtonLauncher\app\build\intermediates\reload-dex\debug\classes.dex"
+        type="RELOAD_DEX" />
+
+    <build
+        timestamp="6756681317095"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="D:\Code\Android\HomeButtonLauncher\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="8954278973052"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="D:\Code\Android\HomeButtonLauncher\app\build\intermediates\builds\debug\8954278973052\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="8972745936951"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="D:\Code\Android\HomeButtonLauncher\app\build\intermediates\builds\debug\8972745936951\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="9055344440812"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="D:\Code\Android\HomeButtonLauncher\app\build\intermediates\builds\debug\9055344440812\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="9210669313224"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="D:\Code\Android\HomeButtonLauncher\app\build\intermediates\builds\debug\9210669313224\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="9238212143286"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="D:\Code\Android\HomeButtonLauncher\app\build\intermediates\reload-dex\debug\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+
+</instant-run>

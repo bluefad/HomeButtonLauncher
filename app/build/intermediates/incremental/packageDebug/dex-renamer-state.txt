@@ -1,0 +1,7 @@
+#Sat Oct 22 15:05:38 CST 2016
+base.0=D\:\\Code\\Android\\HomeButtonLauncher\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_0557d14ae2b64f78eda05de21be89b09c140c44c
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\Code\\Android\\HomeButtonLauncher\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_34323ec3c77876304c0d4929b30c631c75eb21c3\\classes.dex
+base.1=D\:\\Code\\Android\\HomeButtonLauncher\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_34323ec3c77876304c0d4929b30c631c75eb21c3
+file.0=D\:\\Code\\Android\\HomeButtonLauncher\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_0557d14ae2b64f78eda05de21be89b09c140c44c\\classes.dex

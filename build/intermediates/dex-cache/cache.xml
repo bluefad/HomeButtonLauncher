@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\Code\Android\HomeButtonLauncher\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0be7206bed44e403b032244e0ab60290d576170d">
+        <dex dex="D:\Code\Android\HomeButtonLauncher\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_34323ec3c77876304c0d4929b30c631c75eb21c3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Code\Android\HomeButtonLauncher\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="D:\Code\Android\HomeButtonLauncher\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_2aa9cb236c2357398e57a835b800d2a158d70e2b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Code\Android\HomeButtonLauncher\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="D:\Code\Android\HomeButtonLauncher\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.0_c70833ba04e1b1f362993afa4f664a3270cb8db1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Code\Android\HomeButtonLauncher\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="D:\Code\Android\HomeButtonLauncher\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_63174c73fd4a5bb65689cb3ba11a029349163fe2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Code\Android\HomeButtonLauncher\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="D:\Code\Android\HomeButtonLauncher\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_9d3cb62ae6f8ea8e56436ed074f4db326afdb573\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Code\Android\HomeButtonLauncher\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="D:\Code\Android\HomeButtonLauncher\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_a3bc4f8e16ad56f32e7d9067fd52de41b14701be\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Code\Android\HomeButtonLauncher\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="D:\Code\Android\HomeButtonLauncher\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.0_9382761aacc338096551315d601a80148ebe00f2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Code\Android\HomeButtonLauncher\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c2a4e32b6d193de0d42b9406219793c2e60ae22a">
+        <dex dex="D:\Code\Android\HomeButtonLauncher\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_0557d14ae2b64f78eda05de21be89b09c140c44c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Code\Android\HomeButtonLauncher\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="D:\Code\Android\HomeButtonLauncher\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.0_fef93d2ed6c6c316ec9f9725c90accf1308ed541\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Code\Android\HomeButtonLauncher\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="D:\Code\Android\HomeButtonLauncher\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.0_11b46540ae8fc6ca2e94e4130aefe0c98f501969\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Code\Android\HomeButtonLauncher\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Code\Android\HomeButtonLauncher\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.0_54e85cf2966bb57f09bf23394f5224adeb0af61c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Code\Android\HomeButtonLauncher\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="D:\Code\Android\HomeButtonLauncher\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.0_29790fec049d695eec43b14475fa8a75493065ce\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Code\Android\AndroidSDK\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="D:\Code\Android\HomeButtonLauncher\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.0_b9244e97c8756782cbb50e59ffbb5dc2db5219c2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Code\Android\HomeButtonLauncher\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="D:\Code\Android\HomeButtonLauncher\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_9d03b14243b049dcf63d0e4937a9e7c343564cf8\classes.dex" />
+    </item>
+
+</items>

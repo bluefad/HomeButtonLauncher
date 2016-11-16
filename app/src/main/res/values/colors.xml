@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="actionbarIconSelected">#8f7f7f7f</color>
+    <color name="appListSelected">#8f7f7f7f</color>
+    <color name="div">#50888888</color>
+
+    <color name="titleTextColorDark">#cccccc</color>
+    <color name="defaultTextColorDark">#f3f3f3</color>
+    <color name="defaultHintColorDark">#505050</color>
+    <color name="backgroundHeaderColorDark">#1f1f1f</color>
+    <color name="backgroundBodyColorDark">#2f2f2f</color>
+
+    <color name="titleTextColorLight">#171717</color>
+    <color name="defaultTextColorLight">#4f4f4f</color>
+    <color name="defaultHintColorLight">#afafaf</color>
+    <color name="backgroundHeaderColorLight">#bbbbbb</color>
+    <color name="backgroundBodyColorLight">#ececec</color>
+
+    <color name="l5AccentLight">#009688</color> <!-- material_deep_teal_500 -->
+    <color name="l5AccentDark">#80cbc4</color> <!-- material_deep_teal_200 -->
+</resources>

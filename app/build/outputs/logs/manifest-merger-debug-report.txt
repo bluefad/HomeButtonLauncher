@@ -1,0 +1,133 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Code\Android\HomeButtonLauncher\app\src\main\AndroidManifest.xml:2:1-70:12
+	package
+		ADDED from D:\Code\Android\HomeButtonLauncher\app\src\main\AndroidManifest.xml:3:5-46
+		INJECTED from D:\Code\Android\HomeButtonLauncher\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Code\Android\HomeButtonLauncher\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\Code\Android\HomeButtonLauncher\app\src\main\AndroidManifest.xml:6:5-30
+		INJECTED from D:\Code\Android\HomeButtonLauncher\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Code\Android\HomeButtonLauncher\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from D:\Code\Android\HomeButtonLauncher\app\src\main\AndroidManifest.xml:5:5-32
+		INJECTED from D:\Code\Android\HomeButtonLauncher\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Code\Android\HomeButtonLauncher\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Code\Android\HomeButtonLauncher\app\src\main\AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from D:\Code\Android\HomeButtonLauncher\app\src\main\AndroidManifest.xml:4:5-43
+supports-screens
+ADDED from D:\Code\Android\HomeButtonLauncher\app\src\main\AndroidManifest.xml:8:5-12:39
+	android:largeScreens
+		ADDED from D:\Code\Android\HomeButtonLauncher\app\src\main\AndroidManifest.xml:10:9-36
+	android:smallScreens
+		ADDED from D:\Code\Android\HomeButtonLauncher\app\src\main\AndroidManifest.xml:12:9-36
+	android:normalScreens
+		ADDED from D:\Code\Android\HomeButtonLauncher\app\src\main\AndroidManifest.xml:11:9-37
+	android:anyDensity
+		ADDED from D:\Code\Android\HomeButtonLauncher\app\src\main\AndroidManifest.xml:9:9-34
+uses-sdk
+ADDED from D:\Code\Android\HomeButtonLauncher\app\src\main\AndroidManifest.xml:14:5-16:41
+MERGED from [com.android.support:support-v4:25.0.0] D:\Code\Android\HomeButtonLauncher\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-compat:25.0.0] D:\Code\Android\HomeButtonLauncher\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.0.0] D:\Code\Android\HomeButtonLauncher\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.0.0] D:\Code\Android\HomeButtonLauncher\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.0.0] D:\Code\Android\HomeButtonLauncher\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-fragment:25.0.0] D:\Code\Android\HomeButtonLauncher\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\AndroidManifest.xml:21:5-23:60
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:25.0.0] D:\Code\Android\HomeButtonLauncher\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		ADDED from D:\Code\Android\HomeButtonLauncher\app\src\main\AndroidManifest.xml:16:9-38
+		INJECTED from D:\Code\Android\HomeButtonLauncher\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Code\Android\HomeButtonLauncher\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\Code\Android\HomeButtonLauncher\app\src\main\AndroidManifest.xml:15:9-35
+		INJECTED from D:\Code\Android\HomeButtonLauncher\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Code\Android\HomeButtonLauncher\app\src\main\AndroidManifest.xml
+uses-permission#com.dynamicg.timerec.plugin3.ACCESS
+ADDED from D:\Code\Android\HomeButtonLauncher\app\src\main\AndroidManifest.xml:19:5-75
+	android:name
+		ADDED from D:\Code\Android\HomeButtonLauncher\app\src\main\AndroidManifest.xml:19:22-72
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\Code\Android\HomeButtonLauncher\app\src\main\AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from D:\Code\Android\HomeButtonLauncher\app\src\main\AndroidManifest.xml:22:22-78
+uses-permission-sdk-23
+ADDED from D:\Code\Android\HomeButtonLauncher\app\src\main\AndroidManifest.xml:26:5-76
+	android:name
+		ADDED from D:\Code\Android\HomeButtonLauncher\app\src\main\AndroidManifest.xml:26:29-73
+application
+ADDED from D:\Code\Android\HomeButtonLauncher\app\src\main\AndroidManifest.xml:28:5-68:19
+MERGED from [com.android.support:support-v4:25.0.0] D:\Code\Android\HomeButtonLauncher\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.0.0] D:\Code\Android\HomeButtonLauncher\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.0.0] D:\Code\Android\HomeButtonLauncher\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.0.0] D:\Code\Android\HomeButtonLauncher\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.0.0] D:\Code\Android\HomeButtonLauncher\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.0.0] D:\Code\Android\HomeButtonLauncher\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\AndroidManifest.xml:25:5-20
+	android:backupAgent
+		ADDED from D:\Code\Android\HomeButtonLauncher\app\src\main\AndroidManifest.xml:30:9-98
+	android:label
+		ADDED from D:\Code\Android\HomeButtonLauncher\app\src\main\AndroidManifest.xml:32:9-41
+	android:allowBackup
+		ADDED from D:\Code\Android\HomeButtonLauncher\app\src\main\AndroidManifest.xml:29:9-36
+	android:icon
+		ADDED from D:\Code\Android\HomeButtonLauncher\app\src\main\AndroidManifest.xml:31:9-42
+	android:theme
+		ADDED from D:\Code\Android\HomeButtonLauncher\app\src\main\AndroidManifest.xml:33:9-41
+meta-data#com.google.android.backup.api_key
+ADDED from D:\Code\Android\HomeButtonLauncher\app\src\main\AndroidManifest.xml:35:9-37:82
+	android:value
+		ADDED from D:\Code\Android\HomeButtonLauncher\app\src\main\AndroidManifest.xml:37:13-79
+	android:name
+		ADDED from D:\Code\Android\HomeButtonLauncher\app\src\main\AndroidManifest.xml:36:13-61
+activity#com.dynamicg.homebuttonlauncher.MainActivityHome
+ADDED from D:\Code\Android\HomeButtonLauncher\app\src\main\AndroidManifest.xml:40:9-53:20
+	android:label
+		ADDED from D:\Code\Android\HomeButtonLauncher\app\src\main\AndroidManifest.xml:44:13-45
+	android:excludeFromRecents
+		ADDED from D:\Code\Android\HomeButtonLauncher\app\src\main\AndroidManifest.xml:43:13-46
+	android:launchMode
+		ADDED from D:\Code\Android\HomeButtonLauncher\app\src\main\AndroidManifest.xml:45:13-44
+	android:configChanges
+		ADDED from D:\Code\Android\HomeButtonLauncher\app\src\main\AndroidManifest.xml:42:13-122
+	android:name
+		ADDED from D:\Code\Android\HomeButtonLauncher\app\src\main\AndroidManifest.xml:41:13-76
+intent-filter#android.intent.action.ASSIST+android.intent.category.DEFAULT
+ADDED from D:\Code\Android\HomeButtonLauncher\app\src\main\AndroidManifest.xml:46:13-49:29
+action#android.intent.action.ASSIST
+ADDED from D:\Code\Android\HomeButtonLauncher\app\src\main\AndroidManifest.xml:47:17-71
+	android:name
+		ADDED from D:\Code\Android\HomeButtonLauncher\app\src\main\AndroidManifest.xml:47:25-68
+category#android.intent.category.DEFAULT
+ADDED from D:\Code\Android\HomeButtonLauncher\app\src\main\AndroidManifest.xml:48:17-76
+	android:name
+		ADDED from D:\Code\Android\HomeButtonLauncher\app\src\main\AndroidManifest.xml:48:27-73
+meta-data#com.android.systemui.action_assist_icon
+ADDED from D:\Code\Android\HomeButtonLauncher\app\src\main\AndroidManifest.xml:50:13-52:62
+	android:resource
+		ADDED from D:\Code\Android\HomeButtonLauncher\app\src\main\AndroidManifest.xml:52:17-59
+	android:name
+		ADDED from D:\Code\Android\HomeButtonLauncher\app\src\main\AndroidManifest.xml:51:17-71
+activity#com.dynamicg.homebuttonlauncher.MainActivityOpen
+ADDED from D:\Code\Android\HomeButtonLauncher\app\src\main\AndroidManifest.xml:56:9-66:20
+	android:label
+		ADDED from D:\Code\Android\HomeButtonLauncher\app\src\main\AndroidManifest.xml:60:13-45
+	android:excludeFromRecents
+		ADDED from D:\Code\Android\HomeButtonLauncher\app\src\main\AndroidManifest.xml:59:13-46
+	android:launchMode
+		ADDED from D:\Code\Android\HomeButtonLauncher\app\src\main\AndroidManifest.xml:61:13-44
+	android:configChanges
+		ADDED from D:\Code\Android\HomeButtonLauncher\app\src\main\AndroidManifest.xml:58:13-122
+	android:name
+		ADDED from D:\Code\Android\HomeButtonLauncher\app\src\main\AndroidManifest.xml:57:13-76
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\Code\Android\HomeButtonLauncher\app\src\main\AndroidManifest.xml:62:13-65:29
+action#android.intent.action.MAIN
+ADDED from D:\Code\Android\HomeButtonLauncher\app\src\main\AndroidManifest.xml:63:17-69
+	android:name
+		ADDED from D:\Code\Android\HomeButtonLauncher\app\src\main\AndroidManifest.xml:63:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Code\Android\HomeButtonLauncher\app\src\main\AndroidManifest.xml:64:17-77
+	android:name
+		ADDED from D:\Code\Android\HomeButtonLauncher\app\src\main\AndroidManifest.xml:64:27-74
