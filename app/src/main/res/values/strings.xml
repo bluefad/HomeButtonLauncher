@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Home Launcher</string>
+
+    <string name="menuAdd">Add</string>
+    <string name="menuRemove">Remove</string>
+    <string name="menuSort">Sort</string>
+    <string name="menuReset">Reset</string>
+
+    <string name="tabApps">APPS</string>
+    <string name="tabShortcuts">SHORTCUTS</string>
+
+    <string name="buttonOk">OK</string>
+    <string name="buttonSave">Save</string>
+    <string name="buttonCancel">Cancel</string>
+
+    <!-- context menu on "long click" -->
+    <string name="openAppDetails">App info</string>
+    <string name="openPlayStore">Play Store</string>
+
+    <string name="prefsTheme">Theme</string>
+    <string name="preferences">Settings</string>
+    <string name="prefsLayout">Layout</string>
+    <string name="prefsLabelSize">Label size</string>
+    <string name="prefsIconSize">Icon size</string>
+    <string name="prefsHiResIcon">Load high res icons</string>
+    <string name="prefsAutoStartSingle">Auto start if only one single app selected</string>
+    <string name="prefsNumTabs">Number of Tabs</string>
+    <string name="prefsHomeTab">Home Tab</string>
+    <string name="prefsStatusLine">Show status line</string>
+    <string name="prefsTabPosition">Tab position</string>
+    <string name="prefsNoHeader">No title bar</string>
+    <string name="prefsDriveBackup">Google Drive Backup</string>
+    <string name="prefsDriveRestore">Google Drive Restore</string>
+    <string name="prefsSdCardBackup">SD Card Backup</string>
+    <string name="prefsSdCardRestore">SD Card Restore</string>
+
+    <string name="moveTab">New position</string>
+    <string name="resolveContact">Resolve Contact ID</string>
+    <string name="hblKeepOpen">Keep Home Launcher open</string>
+
+
+</resources>

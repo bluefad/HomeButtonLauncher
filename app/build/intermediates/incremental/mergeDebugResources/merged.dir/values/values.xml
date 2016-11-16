@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr format="reference|color" name="backgroundBodyColor"/>
+    <attr format="reference|color" name="backgroundHeaderColor"/>
+    <attr format="reference|color" name="defaultHintColor"/>
+    <attr format="reference|color" name="defaultTextColor"/>
+    <attr format="reference|color" name="titleTextColor"/>
+    <color name="actionbarIconSelected">#8f7f7f7f</color>
+    <color name="appListSelected">#8f7f7f7f</color>
+    <color name="backgroundBodyColorDark">#2f2f2f</color>
+    <color name="backgroundBodyColorLight">#ececec</color>
+    <color name="backgroundHeaderColorDark">#1f1f1f</color>
+    <color name="backgroundHeaderColorLight">#bbbbbb</color>
+    <color name="defaultHintColorDark">#505050</color>
+    <color name="defaultHintColorLight">#afafaf</color>
+    <color name="defaultTextColorDark">#f3f3f3</color>
+    <color name="defaultTextColorLight">#4f4f4f</color>
+    <color name="div">#50888888</color>
+    <color name="l5AccentDark">#80cbc4</color>
+    <color name="l5AccentLight">#009688</color>
+    <color name="titleTextColorDark">#cccccc</color>
+    <color name="titleTextColorLight">#171717</color>
+    <dimen name="appLinePadding">4dp</dimen>
+    <dimen name="appLinePaddingCompactTB">6dp</dimen>
+    <dimen name="gridViewNoLabelIconPadding">4dp</dimen>
+    <dimen name="gridViewPaddingBottom">6dp</dimen>
+    <dimen name="gridViewPaddingTop">6dp</dimen>
+    <dimen name="headerPadding">14dp</dimen>
+    <dimen name="headerTextSize">20sp</dimen>
+    <dimen name="iconOffsetPadding">10dp</dimen>
+    <dimen name="labelMargin">12dp</dimen>
+    <dimen name="swipeMaxOffY">120dp</dimen>
+    <dimen name="swipeMinDistX">100dp</dimen>
+    <dimen name="tabExtraHeight">8dp</dimen>
+    <dimen name="tabHeight">34dp</dimen>
+    <dimen name="widthAppConfig">304dp</dimen>
+    <dimen name="widthDefault">280dp</dimen>
+    <dimen name="widthWide">520dp</dimen>
+    <item name="tag_tab_index" type="id"/>
+    <item name="tag_tab_selected" type="id"/>
+    <string name="app_name">Home Launcher</string>
+    <string name="buttonCancel">Cancel</string>
+    <string name="buttonOk">OK</string>
+    <string name="buttonSave">Save</string>
+    <string name="hblKeepOpen">Keep Home Launcher open</string>
+    <string name="menuAdd">Add</string>
+    <string name="menuRemove">Remove</string>
+    <string name="menuReset">Reset</string>
+    <string name="menuSort">Sort</string>
+    <string name="moveTab">New position</string>
+    <string name="openAppDetails">App info</string>
+    <string name="openPlayStore">Play Store</string>
+    <string name="preferences">Settings</string>
+    <string name="prefsAutoStartSingle">Auto start if only one single app selected</string>
+    <string name="prefsDriveBackup">Google Drive Backup</string>
+    <string name="prefsDriveRestore">Google Drive Restore</string>
+    <string name="prefsHiResIcon">Load high res icons</string>
+    <string name="prefsHomeTab">Home Tab</string>
+    <string name="prefsIconSize">Icon size</string>
+    <string name="prefsLabelSize">Label size</string>
+    <string name="prefsLayout">Layout</string>
+    <string name="prefsNoHeader">No title bar</string>
+    <string name="prefsNumTabs">Number of Tabs</string>
+    <string name="prefsSdCardBackup">SD Card Backup</string>
+    <string name="prefsSdCardRestore">SD Card Restore</string>
+    <string name="prefsStatusLine">Show status line</string>
+    <string name="prefsTabPosition">Tab position</string>
+    <string name="prefsTheme">Theme</string>
+    <string name="resolveContact">Resolve Contact ID</string>
+    <string name="tabApps">APPS</string>
+    <string name="tabShortcuts">SHORTCUTS</string>
+    <style name="DefaultText">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="DialogButton" parent="android:Widget.Holo.Button.Borderless.Small">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textColor">?titleTextColor</item>
+    </style>
+    <style name="Divider">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">1dp</item>
+        <item name="android:background">@color/div</item>
+    </style>
+    <style name="PrefLabel">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">@dimen/labelMargin</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">?defaultTextColor</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+    <style name="PrefLayoutImage">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:paddingLeft">10dp</item>
+        <item name="android:paddingRight">10dp</item>
+    </style>
+    <style name="PrefSeekbar">
+        <item name="android:layout_width">240dp</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="PrefSeekbarHint">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">8dp</item>
+        <item name="android:textColor">?defaultHintColor</item>
+    </style>
+    <style name="PrefToggle">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">4dp</item>
+    </style>
+    <style name="SystemThemeDark" parent="android:Theme.Holo.Dialog"/>
+    <style name="SystemThemeLight" parent="android:Theme.Holo.Light.Dialog"/>
+    <style name="ThemeDark" parent="SystemThemeDark">
+        <item name="defaultTextColor">@color/defaultTextColorDark</item>
+        <item name="defaultHintColor">@color/defaultHintColorDark</item>
+        <item name="titleTextColor">@color/titleTextColorDark</item>
+        <item name="backgroundHeaderColor">@color/backgroundHeaderColorDark</item>
+        <item name="backgroundBodyColor">@color/backgroundBodyColorDark</item>
+    </style>
+    <style name="ThemeLight" parent="SystemThemeLight">
+        <item name="defaultTextColor">@color/defaultTextColorLight</item>
+        <item name="defaultHintColor">@color/defaultHintColorLight</item>
+        <item name="titleTextColor">@color/titleTextColorLight</item>
+        <item name="backgroundHeaderColor">@color/backgroundHeaderColorLight</item>
+        <item name="backgroundBodyColor">@color/backgroundBodyColorLight</item>
+    </style>
+    <style name="ThemeSemiTransparent" parent="ThemeDark">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:backgroundDimEnabled">false</item>
+
+        <item name="backgroundHeaderColor">@android:color/transparent</item>
+        <item name="backgroundBodyColor">@android:color/transparent</item>
+    </style>
+</resources>

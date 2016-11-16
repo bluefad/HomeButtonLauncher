@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="defaultTextColor" format="reference|color" />
+    <attr name="defaultHintColor" format="reference|color" />
+    <attr name="titleTextColor" format="reference|color" />
+    <attr name="backgroundHeaderColor" format="reference|color" />
+    <attr name="backgroundBodyColor" format="reference|color" />
+
+    <item name="tag_tab_selected" type="id" />
+    <item name="tag_tab_index" type="id" />
+</resources>

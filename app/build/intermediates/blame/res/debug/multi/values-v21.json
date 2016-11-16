@@ -1,0 +1,88 @@
+[
+    {
+        "outputFile": "D:\\Code\\Android\\HomeButtonLauncher.bak\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 74,
+                    "endOffset": 125
+                },
+                "from": {
+                    "file": "D:\\Code\\Android\\HomeButtonLauncher.bak\\app\\src\\main\\res\\values-v21\\styles.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 118,
+                        "endColumn": 75,
+                        "endOffset": 189
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 130,
+                    "endColumn": 81,
+                    "endOffset": 207
+                },
+                "from": {
+                    "file": "D:\\Code\\Android\\HomeButtonLauncher.bak\\app\\src\\main\\res\\values-v21\\styles.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 197,
+                        "endColumn": 82,
+                        "endOffset": 275
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "D:\\Code\\Android\\HomeButtonLauncher\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 74,
+                    "endOffset": 125
+                },
+                "from": {
+                    "file": "D:\\Code\\Android\\HomeButtonLauncher\\app\\src\\main\\res\\values-v21\\styles.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 118,
+                        "endColumn": 75,
+                        "endOffset": 189
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 130,
+                    "endColumn": 81,
+                    "endOffset": 207
+                },
+                "from": {
+                    "file": "D:\\Code\\Android\\HomeButtonLauncher\\app\\src\\main\\res\\values-v21\\styles.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 197,
+                        "endColumn": 82,
+                        "endOffset": 275
+                    }
+                }
+            }
+        ]
+    }
+]

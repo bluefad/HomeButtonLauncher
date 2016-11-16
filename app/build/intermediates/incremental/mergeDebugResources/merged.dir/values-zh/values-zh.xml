@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Home启动器</string>
+    <string name="buttonCancel">取消</string>
+    <string name="buttonOk">确定</string>
+    <string name="buttonSave">保存</string>
+    <string name="hblKeepOpen">保持Home启动器打开</string>
+    <string name="menuAdd">添加</string>
+    <string name="menuRemove">删除</string>
+    <string name="menuReset">重置</string>
+    <string name="menuSort">排序</string>
+    <string name="moveTab">新的位置</string>
+    <string name="openAppDetails">应用信息</string>
+    <string name="openPlayStore">去Play查看</string>
+    <string name="preferences">设置</string>
+    <string name="prefsAutoStartSingle">仅有一个应用时直接启动</string>
+    <string name="prefsDriveBackup">Google Drive 备份</string>
+    <string name="prefsDriveRestore">Google Drive 还原</string>
+    <string name="prefsHiResIcon">使用高清图标</string>
+    <string name="prefsHomeTab">标签页</string>
+    <string name="prefsIconSize">图标大小</string>
+    <string name="prefsLabelSize">标签大小</string>
+    <string name="prefsLayout">排列方式</string>
+    <string name="prefsNoHeader">隐藏标题栏</string>
+    <string name="prefsNumTabs">标签数量</string>
+    <string name="prefsSdCardBackup">SD卡备份</string>
+    <string name="prefsSdCardRestore">SD卡还原</string>
+    <string name="prefsStatusLine">显示状态栏</string>
+    <string name="prefsTabPosition">标签页位置</string>
+    <string name="prefsTheme">主题</string>
+    <string name="resolveContact">处理联系人ID</string>
+    <string name="tabApps">应用列表</string>
+    <string name="tabShortcuts">快捷方式</string>
+</resources>
