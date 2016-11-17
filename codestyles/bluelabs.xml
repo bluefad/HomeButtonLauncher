@@ -1,4 +1,4 @@
-<code_scheme name="Default (1)">
+<code_scheme name="bluelabs">
   <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="99" />
   <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="99" />
   <option name="PACKAGES_TO_USE_IMPORT_ON_DEMAND">
@@ -27,6 +27,7 @@
     </value>
   </option>
   <option name="RIGHT_MARGIN" value="100" />
+  <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="true" />
   <AndroidXmlCodeStyleSettings>
     <option name="USE_CUSTOM_SETTINGS" value="true" />
   </AndroidXmlCodeStyleSettings>
@@ -59,13 +60,10 @@
     </extensions>
   </Objective-C-extensions>
   <XML>
-    <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
+    <option name="XML_KEEP_LINE_BREAKS" value="false" />
+    <option name="XML_ALIGN_ATTRIBUTES" value="false" />
+    <option name="XML_SPACE_INSIDE_EMPTY_TAG" value="true" />
   </XML>
-  <codeStyleSettings language="JAVA">
-    <option name="SPACE_BEFORE_COMMA" value="true" />
-    <option name="SPACE_WITHIN_ARRAY_INITIALIZER_BRACES" value="true" />
-    <option name="SPACE_BEFORE_ARRAY_INITIALIZER_LBRACE" value="true" />
-  </codeStyleSettings>
   <codeStyleSettings language="XML">
     <option name="FORCE_REARRANGE_MODE" value="1" />
     <indentOptions>
