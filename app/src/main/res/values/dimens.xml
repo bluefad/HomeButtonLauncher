@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="headerPadding">14dp</dimen>
+    <dimen name="headerTextSize">20sp</dimen>
+
+    <dimen name="appLinePadding">4dp</dimen>
+    <dimen name="appLinePaddingCompactTB">6dp</dimen>
+    <dimen name="iconOffsetPadding">10dp</dimen>
+
+    <dimen name="widthDefault">280dp</dimen>
+    <dimen name="widthWide">520dp</dimen>
+    <dimen name="widthAppConfig">304dp</dimen>
+
+    <dimen name="gridViewPaddingTop">6dp</dimen>
+    <dimen name="gridViewPaddingBottom">6dp</dimen>
+    <dimen name="gridViewNoLabelIconPadding">4dp</dimen>
+
+    <dimen name="tabHeight">34dp</dimen>
+    <dimen name="tabExtraHeight">8dp</dimen>
+
+    <dimen name="swipeMaxOffY">120dp</dimen>
+    <dimen name="swipeMinDistX">100dp</dimen>
+
+    <dimen name="labelMargin">12dp</dimen>
+
+</resources>

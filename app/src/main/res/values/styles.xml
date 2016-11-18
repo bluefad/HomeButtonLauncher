@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <style name="SystemThemeDark" parent="android:Theme.Holo.Dialog" />
+
+    <style name="SystemThemeLight" parent="android:Theme.Holo.Light.Dialog" />
+
+    <style name="ThemeDark" parent="SystemThemeDark">
+        <item name="defaultTextColor">@color/defaultTextColorDark</item>
+        <item name="defaultHintColor">@color/defaultHintColorDark</item>
+        <item name="titleTextColor">@color/titleTextColorDark</item>
+        <item name="backgroundHeaderColor">@color/backgroundHeaderColorDark</item>
+        <item name="backgroundBodyColor">@color/backgroundBodyColorDark</item>
+    </style>
+
+    <style name="ThemeLight" parent="SystemThemeLight">
+        <item name="defaultTextColor">@color/defaultTextColorLight</item>
+        <item name="defaultHintColor">@color/defaultHintColorLight</item>
+        <item name="titleTextColor">@color/titleTextColorLight</item>
+        <item name="backgroundHeaderColor">@color/backgroundHeaderColorLight</item>
+        <item name="backgroundBodyColor">@color/backgroundBodyColorLight</item>
+    </style>
+
+    <style name="ThemeSemiTransparent" parent="ThemeDark">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:backgroundDimEnabled">false</item>
+
+        <item name="backgroundHeaderColor">@android:color/transparent</item>
+        <item name="backgroundBodyColor">@android:color/transparent</item>
+    </style>
+
+    <style name="DialogButton" parent="android:Widget.Holo.Button.Borderless.Small">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textColor">?titleTextColor</item>
+    </style>
+
+    <style name="PrefLabel">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">@dimen/labelMargin</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">?defaultTextColor</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <style name="PrefSeekbar">
+        <item name="android:layout_width">240dp</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+    <style name="PrefSeekbarHint">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">8dp</item>
+        <item name="android:textColor">?defaultHintColor</item>
+    </style>
+
+    <style name="PrefLayoutImage">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:paddingLeft">10dp</item>
+        <item name="android:paddingRight">10dp</item>
+    </style>
+
+    <style name="PrefToggle">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">4dp</item>
+    </style>
+
+    <style name="DefaultText">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+    <style name="Divider">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">1dp</item>
+        <item name="android:background">@color/div</item>
+    </style>
+
+</resources>
