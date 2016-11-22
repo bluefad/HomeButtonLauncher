@@ -4,15 +4,7 @@
         "source": "D:\\Code\\Android\\HomeButtonLauncher\\app\\src\\main\\res\\color\\applink.xml"
     },
     {
-        "merged": "D:\\Code\\Android\\HomeButtonLauncher.bak\\app\\build\\intermediates\\res\\merged\\debug\\color\\applink.xml",
-        "source": "D:\\Code\\Android\\HomeButtonLauncher.bak\\app\\src\\main\\res\\color\\applink.xml"
-    },
-    {
         "merged": "D:\\Code\\Android\\HomeButtonLauncher\\app\\build\\intermediates\\res\\merged\\debug\\color\\hyperlink.xml",
         "source": "D:\\Code\\Android\\HomeButtonLauncher\\app\\src\\main\\res\\color\\hyperlink.xml"
-    },
-    {
-        "merged": "D:\\Code\\Android\\HomeButtonLauncher.bak\\app\\build\\intermediates\\res\\merged\\debug\\color\\hyperlink.xml",
-        "source": "D:\\Code\\Android\\HomeButtonLauncher.bak\\app\\src\\main\\res\\color\\hyperlink.xml"
     }
 ]

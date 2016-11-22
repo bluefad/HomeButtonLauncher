@@ -1,15 +1,7 @@
 [
     {
-        "merged": "D:\\Code\\Android\\HomeButtonLauncher.bak\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\app_selector_shape.xml",
-        "source": "D:\\Code\\Android\\HomeButtonLauncher.bak\\app\\src\\main\\res\\drawable\\app_selector_shape.xml"
-    },
-    {
         "merged": "D:\\Code\\Android\\HomeButtonLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\app_selector_shape.xml",
         "source": "D:\\Code\\Android\\HomeButtonLauncher\\app\\src\\main\\res\\drawable\\app_selector_shape.xml"
-    },
-    {
-        "merged": "D:\\Code\\Android\\HomeButtonLauncher.bak\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tools_selector.xml",
-        "source": "D:\\Code\\Android\\HomeButtonLauncher.bak\\app\\src\\main\\res\\drawable\\tools_selector.xml"
     },
     {
         "merged": "D:\\Code\\Android\\HomeButtonLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tools_selector_shape.xml",
@@ -18,9 +10,5 @@
     {
         "merged": "D:\\Code\\Android\\HomeButtonLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tools_selector.xml",
         "source": "D:\\Code\\Android\\HomeButtonLauncher\\app\\src\\main\\res\\drawable\\tools_selector.xml"
-    },
-    {
-        "merged": "D:\\Code\\Android\\HomeButtonLauncher.bak\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tools_selector_shape.xml",
-        "source": "D:\\Code\\Android\\HomeButtonLauncher.bak\\app\\src\\main\\res\\drawable\\tools_selector_shape.xml"
     }
 ]

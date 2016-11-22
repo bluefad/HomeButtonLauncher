@@ -1,9 +1,5 @@
 [
     {
-        "merged": "D:\\Code\\Android\\HomeButtonLauncher.bak\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\theme_transparent.png",
-        "source": "D:\\Code\\Android\\HomeButtonLauncher.bak\\app\\src\\main\\res\\drawable-mdpi\\theme_transparent.png"
-    },
-    {
         "merged": "D:\\Code\\Android\\HomeButtonLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\tab_pos_top.png",
         "source": "D:\\Code\\Android\\HomeButtonLauncher\\app\\src\\main\\res\\drawable-mdpi\\tab_pos_top.png"
     },
@@ -24,10 +20,6 @@
         "source": "D:\\Code\\Android\\HomeButtonLauncher\\app\\src\\main\\res\\drawable-mdpi\\android.png"
     },
     {
-        "merged": "D:\\Code\\Android\\HomeButtonLauncher.bak\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\layout_grid3.png",
-        "source": "D:\\Code\\Android\\HomeButtonLauncher.bak\\app\\src\\main\\res\\drawable-mdpi\\layout_grid3.png"
-    },
-    {
         "merged": "D:\\Code\\Android\\HomeButtonLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\layout_list1.png",
         "source": "D:\\Code\\Android\\HomeButtonLauncher\\app\\src\\main\\res\\drawable-mdpi\\layout_list1.png"
     },
@@ -36,36 +28,8 @@
         "source": "D:\\Code\\Android\\HomeButtonLauncher\\app\\src\\main\\res\\drawable-mdpi\\theme_dark.png"
     },
     {
-        "merged": "D:\\Code\\Android\\HomeButtonLauncher.bak\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\layout_grid2.png",
-        "source": "D:\\Code\\Android\\HomeButtonLauncher.bak\\app\\src\\main\\res\\drawable-mdpi\\layout_grid2.png"
-    },
-    {
-        "merged": "D:\\Code\\Android\\HomeButtonLauncher.bak\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\android.png",
-        "source": "D:\\Code\\Android\\HomeButtonLauncher.bak\\app\\src\\main\\res\\drawable-mdpi\\android.png"
-    },
-    {
-        "merged": "D:\\Code\\Android\\HomeButtonLauncher.bak\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\tab_pos_top.png",
-        "source": "D:\\Code\\Android\\HomeButtonLauncher.bak\\app\\src\\main\\res\\drawable-mdpi\\tab_pos_top.png"
-    },
-    {
         "merged": "D:\\Code\\Android\\HomeButtonLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\layout_grid2.png",
         "source": "D:\\Code\\Android\\HomeButtonLauncher\\app\\src\\main\\res\\drawable-mdpi\\layout_grid2.png"
-    },
-    {
-        "merged": "D:\\Code\\Android\\HomeButtonLauncher.bak\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\layout_list2.png",
-        "source": "D:\\Code\\Android\\HomeButtonLauncher.bak\\app\\src\\main\\res\\drawable-mdpi\\layout_list2.png"
-    },
-    {
-        "merged": "D:\\Code\\Android\\HomeButtonLauncher.bak\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\theme_dark.png",
-        "source": "D:\\Code\\Android\\HomeButtonLauncher.bak\\app\\src\\main\\res\\drawable-mdpi\\theme_dark.png"
-    },
-    {
-        "merged": "D:\\Code\\Android\\HomeButtonLauncher.bak\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\layout_list1.png",
-        "source": "D:\\Code\\Android\\HomeButtonLauncher.bak\\app\\src\\main\\res\\drawable-mdpi\\layout_list1.png"
-    },
-    {
-        "merged": "D:\\Code\\Android\\HomeButtonLauncher.bak\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\theme_light.png",
-        "source": "D:\\Code\\Android\\HomeButtonLauncher.bak\\app\\src\\main\\res\\drawable-mdpi\\theme_light.png"
     },
     {
         "merged": "D:\\Code\\Android\\HomeButtonLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\layout_grid4.png",
@@ -78,13 +42,5 @@
     {
         "merged": "D:\\Code\\Android\\HomeButtonLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\theme_light.png",
         "source": "D:\\Code\\Android\\HomeButtonLauncher\\app\\src\\main\\res\\drawable-mdpi\\theme_light.png"
-    },
-    {
-        "merged": "D:\\Code\\Android\\HomeButtonLauncher.bak\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\tab_pos_bottom.png",
-        "source": "D:\\Code\\Android\\HomeButtonLauncher.bak\\app\\src\\main\\res\\drawable-mdpi\\tab_pos_bottom.png"
-    },
-    {
-        "merged": "D:\\Code\\Android\\HomeButtonLauncher.bak\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\layout_grid4.png",
-        "source": "D:\\Code\\Android\\HomeButtonLauncher.bak\\app\\src\\main\\res\\drawable-mdpi\\layout_grid4.png"
     }
 ]

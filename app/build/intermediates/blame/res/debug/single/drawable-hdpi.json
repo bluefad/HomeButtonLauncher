@@ -4,15 +4,7 @@
         "source": "D:\\Code\\Android\\HomeButtonLauncher\\app\\src\\main\\res\\drawable-hdpi\\assist_active.png"
     },
     {
-        "merged": "D:\\Code\\Android\\HomeButtonLauncher.bak\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\assist_active.png",
-        "source": "D:\\Code\\Android\\HomeButtonLauncher.bak\\app\\src\\main\\res\\drawable-hdpi\\assist_active.png"
-    },
-    {
         "merged": "D:\\Code\\Android\\HomeButtonLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\app_icon.png",
         "source": "D:\\Code\\Android\\HomeButtonLauncher\\app\\src\\main\\res\\drawable-hdpi\\app_icon.png"
-    },
-    {
-        "merged": "D:\\Code\\Android\\HomeButtonLauncher.bak\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\app_icon.png",
-        "source": "D:\\Code\\Android\\HomeButtonLauncher.bak\\app\\src\\main\\res\\drawable-hdpi\\app_icon.png"
     }
 ]

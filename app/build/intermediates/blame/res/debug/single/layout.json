@@ -1,61 +1,5 @@
 [
     {
-        "merged": "D:\\Code\\Android\\HomeButtonLauncher.bak\\app\\build\\intermediates\\res\\merged\\debug\\layout\\button_panel_1.xml",
-        "source": "D:\\Code\\Android\\HomeButtonLauncher.bak\\app\\src\\main\\res\\layout\\button_panel_1.xml"
-    },
-    {
-        "merged": "D:\\Code\\Android\\HomeButtonLauncher.bak\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_entry_compact.xml",
-        "source": "D:\\Code\\Android\\HomeButtonLauncher.bak\\app\\src\\main\\res\\layout\\app_entry_compact.xml"
-    },
-    {
-        "merged": "D:\\Code\\Android\\HomeButtonLauncher.bak\\app\\build\\intermediates\\res\\merged\\debug\\layout\\footer_status.xml",
-        "source": "D:\\Code\\Android\\HomeButtonLauncher.bak\\app\\src\\main\\res\\layout\\footer_status.xml"
-    },
-    {
-        "merged": "D:\\Code\\Android\\HomeButtonLauncher.bak\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
-        "source": "D:\\Code\\Android\\HomeButtonLauncher.bak\\app\\src\\main\\res\\layout\\activity_main.xml"
-    },
-    {
-        "merged": "D:\\Code\\Android\\HomeButtonLauncher\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_entry_default.xml",
-        "source": "D:\\Code\\Android\\HomeButtonLauncher\\app\\src\\main\\res\\layout\\app_entry_default.xml"
-    },
-    {
-        "merged": "D:\\Code\\Android\\HomeButtonLauncher\\app\\build\\intermediates\\res\\merged\\debug\\layout\\button_panel_1.xml",
-        "source": "D:\\Code\\Android\\HomeButtonLauncher\\app\\src\\main\\res\\layout\\button_panel_1.xml"
-    },
-    {
-        "merged": "D:\\Code\\Android\\HomeButtonLauncher.bak\\app\\build\\intermediates\\res\\merged\\debug\\layout\\preferences_body.xml",
-        "source": "D:\\Code\\Android\\HomeButtonLauncher.bak\\app\\src\\main\\res\\layout\\preferences_body.xml"
-    },
-    {
-        "merged": "D:\\Code\\Android\\HomeButtonLauncher\\app\\build\\intermediates\\res\\merged\\debug\\layout\\applist_listview.xml",
-        "source": "D:\\Code\\Android\\HomeButtonLauncher\\app\\src\\main\\res\\layout\\applist_listview.xml"
-    },
-    {
-        "merged": "D:\\Code\\Android\\HomeButtonLauncher\\app\\build\\intermediates\\res\\merged\\debug\\layout\\common_dialog.xml",
-        "source": "D:\\Code\\Android\\HomeButtonLauncher\\app\\src\\main\\res\\layout\\common_dialog.xml"
-    },
-    {
-        "merged": "D:\\Code\\Android\\HomeButtonLauncher\\app\\build\\intermediates\\res\\merged\\debug\\layout\\edit_tab.xml",
-        "source": "D:\\Code\\Android\\HomeButtonLauncher\\app\\src\\main\\res\\layout\\edit_tab.xml"
-    },
-    {
-        "merged": "D:\\Code\\Android\\HomeButtonLauncher\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_entry_compact.xml",
-        "source": "D:\\Code\\Android\\HomeButtonLauncher\\app\\src\\main\\res\\layout\\app_entry_compact.xml"
-    },
-    {
-        "merged": "D:\\Code\\Android\\HomeButtonLauncher.bak\\app\\build\\intermediates\\res\\merged\\debug\\layout\\configure_apps.xml",
-        "source": "D:\\Code\\Android\\HomeButtonLauncher.bak\\app\\src\\main\\res\\layout\\configure_apps.xml"
-    },
-    {
-        "merged": "D:\\Code\\Android\\HomeButtonLauncher.bak\\app\\build\\intermediates\\res\\merged\\debug\\layout\\edit_tab.xml",
-        "source": "D:\\Code\\Android\\HomeButtonLauncher.bak\\app\\src\\main\\res\\layout\\edit_tab.xml"
-    },
-    {
-        "merged": "D:\\Code\\Android\\HomeButtonLauncher.bak\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_entry_sort.xml",
-        "source": "D:\\Code\\Android\\HomeButtonLauncher.bak\\app\\src\\main\\res\\layout\\app_entry_sort.xml"
-    },
-    {
         "merged": "D:\\Code\\Android\\HomeButtonLauncher\\app\\build\\intermediates\\res\\merged\\debug\\layout\\applist_gridview.xml",
         "source": "D:\\Code\\Android\\HomeButtonLauncher\\app\\src\\main\\res\\layout\\applist_gridview.xml"
     },
@@ -72,6 +16,14 @@
         "source": "D:\\Code\\Android\\HomeButtonLauncher\\app\\src\\main\\res\\layout\\footer_status.xml"
     },
     {
+        "merged": "D:\\Code\\Android\\HomeButtonLauncher\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_entry_default.xml",
+        "source": "D:\\Code\\Android\\HomeButtonLauncher\\app\\src\\main\\res\\layout\\app_entry_default.xml"
+    },
+    {
+        "merged": "D:\\Code\\Android\\HomeButtonLauncher\\app\\build\\intermediates\\res\\merged\\debug\\layout\\button_panel_1.xml",
+        "source": "D:\\Code\\Android\\HomeButtonLauncher\\app\\src\\main\\res\\layout\\button_panel_1.xml"
+    },
+    {
         "merged": "D:\\Code\\Android\\HomeButtonLauncher\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
         "source": "D:\\Code\\Android\\HomeButtonLauncher\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
@@ -80,8 +32,8 @@
         "source": "D:\\Code\\Android\\HomeButtonLauncher\\app\\src\\main\\res\\layout\\button_panel_2.xml"
     },
     {
-        "merged": "D:\\Code\\Android\\HomeButtonLauncher.bak\\app\\build\\intermediates\\res\\merged\\debug\\layout\\header.xml",
-        "source": "D:\\Code\\Android\\HomeButtonLauncher.bak\\app\\src\\main\\res\\layout\\header.xml"
+        "merged": "D:\\Code\\Android\\HomeButtonLauncher\\app\\build\\intermediates\\res\\merged\\debug\\layout\\applist_listview.xml",
+        "source": "D:\\Code\\Android\\HomeButtonLauncher\\app\\src\\main\\res\\layout\\applist_listview.xml"
     },
     {
         "merged": "D:\\Code\\Android\\HomeButtonLauncher\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tabs_container.xml",
@@ -92,28 +44,16 @@
         "source": "D:\\Code\\Android\\HomeButtonLauncher\\app\\src\\main\\res\\layout\\header.xml"
     },
     {
-        "merged": "D:\\Code\\Android\\HomeButtonLauncher.bak\\app\\build\\intermediates\\res\\merged\\debug\\layout\\button_panel_2.xml",
-        "source": "D:\\Code\\Android\\HomeButtonLauncher.bak\\app\\src\\main\\res\\layout\\button_panel_2.xml"
+        "merged": "D:\\Code\\Android\\HomeButtonLauncher\\app\\build\\intermediates\\res\\merged\\debug\\layout\\edit_tab.xml",
+        "source": "D:\\Code\\Android\\HomeButtonLauncher\\app\\src\\main\\res\\layout\\edit_tab.xml"
     },
     {
-        "merged": "D:\\Code\\Android\\HomeButtonLauncher.bak\\app\\build\\intermediates\\res\\merged\\debug\\layout\\applist_gridview.xml",
-        "source": "D:\\Code\\Android\\HomeButtonLauncher.bak\\app\\src\\main\\res\\layout\\applist_gridview.xml"
+        "merged": "D:\\Code\\Android\\HomeButtonLauncher\\app\\build\\intermediates\\res\\merged\\debug\\layout\\common_dialog.xml",
+        "source": "D:\\Code\\Android\\HomeButtonLauncher\\app\\src\\main\\res\\layout\\common_dialog.xml"
     },
     {
-        "merged": "D:\\Code\\Android\\HomeButtonLauncher.bak\\app\\build\\intermediates\\res\\merged\\debug\\layout\\common_dialog.xml",
-        "source": "D:\\Code\\Android\\HomeButtonLauncher.bak\\app\\src\\main\\res\\layout\\common_dialog.xml"
-    },
-    {
-        "merged": "D:\\Code\\Android\\HomeButtonLauncher.bak\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_entry_default.xml",
-        "source": "D:\\Code\\Android\\HomeButtonLauncher.bak\\app\\src\\main\\res\\layout\\app_entry_default.xml"
-    },
-    {
-        "merged": "D:\\Code\\Android\\HomeButtonLauncher.bak\\app\\build\\intermediates\\res\\merged\\debug\\layout\\applist_listview.xml",
-        "source": "D:\\Code\\Android\\HomeButtonLauncher.bak\\app\\src\\main\\res\\layout\\applist_listview.xml"
-    },
-    {
-        "merged": "D:\\Code\\Android\\HomeButtonLauncher.bak\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tabs_container.xml",
-        "source": "D:\\Code\\Android\\HomeButtonLauncher.bak\\app\\src\\main\\res\\layout\\tabs_container.xml"
+        "merged": "D:\\Code\\Android\\HomeButtonLauncher\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_entry_compact.xml",
+        "source": "D:\\Code\\Android\\HomeButtonLauncher\\app\\src\\main\\res\\layout\\app_entry_compact.xml"
     },
     {
         "merged": "D:\\Code\\Android\\HomeButtonLauncher\\app\\build\\intermediates\\res\\merged\\debug\\layout\\preferences_body.xml",

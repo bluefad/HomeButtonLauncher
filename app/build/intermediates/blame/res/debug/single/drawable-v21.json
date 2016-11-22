@@ -1,9 +1,5 @@
 [
     {
-        "merged": "D:\\Code\\Android\\HomeButtonLauncher.bak\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_moreoverflow_material.xml",
-        "source": "D:\\Code\\Android\\HomeButtonLauncher.bak\\app\\src\\main\\res\\drawable-v21\\ic_menu_moreoverflow_material.xml"
-    },
-    {
         "merged": "D:\\Code\\Android\\HomeButtonLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_moreoverflow_material.xml",
         "source": "D:\\Code\\Android\\HomeButtonLauncher\\app\\src\\main\\res\\drawable-v21\\ic_menu_moreoverflow_material.xml"
     }
