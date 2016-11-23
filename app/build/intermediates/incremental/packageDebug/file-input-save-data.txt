@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Sat Oct 22 15:05:38 CST 2016
+#Wed Nov 23 12:14:13 CST 2016
 5.base=D\:\\Code\\Android\\HomeButtonLauncher\\app\\build\\intermediates\\res\\resources-debug.ap_
 42.base=D\:\\Code\\Android\\HomeButtonLauncher\\app\\build\\intermediates\\res\\resources-debug.ap_
 32.set=ANDROID_RESOURCE
@@ -29,17 +29,17 @@
 8.file=D\:\\Code\\Android\\HomeButtonLauncher\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\android.png
 12.base=D\:\\Code\\Android\\HomeButtonLauncher\\app\\build\\intermediates\\res\\resources-debug.ap_
 8.set=ANDROID_RESOURCE
-45.file=D\:\\Code\\Android\\HomeButtonLauncher\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\footer_status.xml
+45.file=D\:\\Code\\Android\\HomeButtonLauncher\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\edit_tab.xml
 46.set=DEX
 55.file=D\:\\Code\\Android\\HomeButtonLauncher\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_0557d14ae2b64f78eda05de21be89b09c140c44c\\classes.dex
 35.set=ANDROID_RESOURCE
 21.file=D\:\\Code\\Android\\HomeButtonLauncher\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\tools_selector.xml
 16.base=D\:\\Code\\Android\\HomeButtonLauncher\\app\\build\\intermediates\\res\\resources-debug.ap_
 49.file=D\:\\Code\\Android\\HomeButtonLauncher\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
-31.file=D\:\\Code\\Android\\HomeButtonLauncher\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_menu_moreoverflow_normal_holo_light.png
+31.file=D\:\\Code\\Android\\HomeButtonLauncher\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\preferences_body.xml
 59.file=D\:\\Code\\Android\\HomeButtonLauncher\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\com.android.support-support-media-compat-25.0.0_11b46540ae8fc6ca2e94e4130aefe0c98f501969\\classes.dex
 24.set=ANDROID_RESOURCE
-25.file=D\:\\Code\\Android\\HomeButtonLauncher\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\app_selector_shape.xml
+25.file=D\:\\Code\\Android\\HomeButtonLauncher\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\assist_active.png
 35.file=D\:\\Code\\Android\\HomeButtonLauncher\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\common_dialog.xml
 13.set=ANDROID_RESOURCE
 19.file=D\:\\Code\\Android\\HomeButtonLauncher\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\layout_list2.png
@@ -82,9 +82,9 @@ count=62
 7.set=DEX
 45.set=ANDROID_RESOURCE
 22.file=D\:\\Code\\Android\\HomeButtonLauncher\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\app_entry_compact.xml
-32.file=D\:\\Code\\Android\\HomeButtonLauncher\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\preferences_body.xml
+32.file=D\:\\Code\\Android\\HomeButtonLauncher\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_menu_moreoverflow_normal_holo_light.png
 34.set=DEX
-26.file=D\:\\Code\\Android\\HomeButtonLauncher\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\assist_active.png
+26.file=D\:\\Code\\Android\\HomeButtonLauncher\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\app_selector_shape.xml
 23.set=DEX
 36.file=D\:\\Code\\Android\\HomeButtonLauncher\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\header.xml
 3.base=D\:\\Code\\Android\\HomeButtonLauncher\\app\\build\\intermediates\\res\\resources-debug.ap_
@@ -166,7 +166,7 @@ count=62
 29.base=D\:\\Code\\Android\\HomeButtonLauncher\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_8
 7.file=D\:\\Code\\Android\\HomeButtonLauncher\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_3\\classes.dex
 11.base=D\:\\Code\\Android\\HomeButtonLauncher\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_34323ec3c77876304c0d4929b30c631c75eb21c3
-44.file=D\:\\Code\\Android\\HomeButtonLauncher\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\edit_tab.xml
+44.file=D\:\\Code\\Android\\HomeButtonLauncher\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\footer_status.xml
 36.set=ANDROID_RESOURCE
 39.base=D\:\\Code\\Android\\HomeButtonLauncher\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_2
 54.file=D\:\\Code\\Android\\HomeButtonLauncher\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\app_entry_sort.xml
