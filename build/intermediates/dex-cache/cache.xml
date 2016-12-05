@@ -7,7 +7,7 @@
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="0be7206bed44e403b032244e0ab60290d576170d">
+        sha1="a1f0f3289b2464ef00c0c2374bd810b342985c59">
         <dex dex="D:\Code\Android\HomeButtonLauncher\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_34323ec3c77876304c0d4929b30c631c75eb21c3\classes.dex" />
     </item>
     <item
@@ -70,7 +70,7 @@
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="c2a4e32b6d193de0d42b9406219793c2e60ae22a">
+        sha1="65e8ee9e90d400aa655c1bc64a3501d312b2838c">
         <dex dex="D:\Code\Android\HomeButtonLauncher\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_0557d14ae2b64f78eda05de21be89b09c140c44c\classes.dex" />
     </item>
     <item
