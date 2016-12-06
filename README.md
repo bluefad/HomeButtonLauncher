@@ -1,6 +1,6 @@
 # HomeButtonLauncher
 com.dynamicg.homebuttonlauncher
 
-Git clone from https://code.google.com
+Git clone from http://dynamicgandroidapps.svn.cloudforge.com/trunk/HomeButtonLauncher
 
 This is NOT my project.
